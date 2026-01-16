@@ -15,10 +15,10 @@ Generates ancient-sounding given names; mashups of names from different ancient 
     Roman - Roman - Roman - Near East
     Ta - m - en - at
   
-  Telella
+  Damanius
   
-    Greek - Roman
-    Tel - ella
+    Greek - Near East - Roman
+    Da - man - ius
   
   Ephon
   
@@ -35,12 +35,11 @@ Generates ancient-sounding given names; mashups of names from different ancient 
     Egyptian - Greek
     Akhe - d
   
-  Gneus
+  Amenankhasia
   
-    Roman - Greek
-    Gn - eus
+    Egyptian - Egyptian - Greek
+    Amen - ankha - sia
 
-    
   Nabokhamius
   
     Near East - Egyptian - Roman
