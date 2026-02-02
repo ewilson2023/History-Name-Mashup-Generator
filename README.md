@@ -1,8 +1,7 @@
 
 Generates ancient—sounding given names; mashups of names from different ancient cultures.
 
-[>>> Open in Google Colab <<<](https://colab.research.google.com/github/ewilson2023/History-Name-Mashup-Generator/blob/main/HistoryChalengeNameGenerator.ipynb)
-
+<h2 align="center">  <a href="https://colab.research.google.com/github/ewilson2023/History-Name-Mashup-Generator/blob/main/HistoryChalengeNameGenerator.ipynb"> >>> Open in Google Colab <<< </a>  </h2> 
 
 ### Example Output:
 
